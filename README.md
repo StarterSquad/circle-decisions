@@ -2,7 +2,7 @@
 
 To drive the governance of the Squads community we want to record agreements and their review process.
 
-Those agreements are initiated by a community member (the maintainer) in form of a Proposal, and all other members can contribue to it.
+Those agreements are initiated by a community member (the maintainer) in form of a Proposal, and all other members can contribute to it.
 
 The Proposal will be up for debate until no objections are raised and a final agreement is reached.
 
