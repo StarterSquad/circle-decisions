@@ -3,17 +3,17 @@ The general circle has the mandate to make decisions about topics that are not d
 
 ##Current Members
 
-| Name             | Role        |
-|------------------|-------------|
-| Tiziano Perrucci | Facilitator |
-| Iryna Yevsieieva | Growth      |
-| Dmitry Yevsieiev | Member      |
-| Dejan Kocev      | Member      |
-| Johnny Gladwin   | Member      |
-| Iwein Fuld       | Member      |
-| Max Diachenko    | Member      |
-| Vadym Romanyak   | Member      |
-| Vyacheslav Voronenko | Member     |
+| Name                 | Role        |
+|----------------------|-------------|
+| Tiziano Perrucci     | Facilitator |
+| Iryna Yevsieieva     | Growth      |
+| Dmitry Yevsieiev     | Member      |
+| Dejan Kocev          | Member      |
+| Johnny Gladwin       | Member      |
+| Iwein Fuld           | Member      |
+| Max Diachenko        | Member      |
+| Vadym Romanyak       | Member      |
+| Vyacheslav Voronenko | Member      |
 
 
 ## How to become a member of the general circle
