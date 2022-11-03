@@ -19,5 +19,5 @@ If a Proposal PR gets agreed will be merged to main. If instead we don't reach a
 | Proposal                             | Title     | Date        | Maintainer | Status | Term       |
 |--------------------------------------|-----------|-------------|------------|--------|------------|
 | [0](proposals/0.template.md)         | Template  | 2022-09-08  | Tiziano    | Active | Indefinite |
-| [1](proposals/1.marketing-budget.md) | Template  | 2022-09-08  | Tiziano    | Active | 2023-12    |
+| [1](proposals/1.marketing-budget.md) | Template  | 2022-09-08  | Iryna      | Active | 2023-12    |
 | [2](proposals/2.circle-rules.md)     | Template  | 2022-11-03  | Iwein      | Active | Indefinite |
