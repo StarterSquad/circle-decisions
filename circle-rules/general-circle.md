@@ -20,7 +20,7 @@ The general circle has the mandate to make decisions about topics that are not d
 Anyone that is active in Squads can apply to join the general circle. Any existing member can propose someone new to join. We will propose this in the general circle meeting, and upon consent add the new member to the list above.
 
 _What does it mean to be 'active in Squads'?_
-To be active means to have taken action and to intend to do so in the future. Members that currently generate revenue are considered active. If none of the existing members know how you're active, your application might be ignored.
+To be active means to have taken action and to intend to do so in the future. Members that currently generate revenue AND that have at least 100 certificates in the member fund are considered active. 
 
 ## How to end the circle membership
 There are several ways to end membership of one of the circle members:
