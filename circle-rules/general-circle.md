@@ -1,5 +1,5 @@
 ## Mandate
-The general circle has the mandate to make decisions about topics that are not delegated to other circles, with in the confines of the law. The directors of Squads (Dmitry and Iwein) have committed to executing any General Circle decisions without second guessing them outside the circle meetings.
+The general circle has the mandate to make decisions about topics that are not delegated to other circles, within the confines of the law. The directors of Squads (Dmitry and Iwein) have committed to executing any General Circle decisions without second guessing them outside the circle meetings.
 
 ##Current Members
 
